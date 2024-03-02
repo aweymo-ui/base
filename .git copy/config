@@ -1,0 +1,87 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = https://github.com/uidaholib/base-digital-collections-template.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "barstock"]
+	remote = origin
+	merge = refs/heads/barstock
+[branch "expforest"]
+	remote = origin
+	merge = refs/heads/expforest
+[branch "sanborn"]
+	remote = origin
+	merge = refs/heads/sanborn
+[branch "1918flu"]
+	remote = origin
+	merge = refs/heads/1918flu
+[branch "kooskia"]
+	remote = origin
+	merge = refs/heads/kooskia
+[branch "latahsites"]
+	remote = origin
+	merge = refs/heads/latahsites
+[branch "laughlin"]
+	remote = origin
+	merge = refs/heads/laughlin
+[branch "lcheritage"]
+	remote = origin
+	merge = refs/heads/lcheritage
+[branch "lchsphotos"]
+	remote = origin
+	merge = refs/heads/lchsphotos
+[branch "marsh"]
+	remote = origin
+	merge = refs/heads/marsh
+[branch "ott"]
+	remote = origin
+	merge = refs/heads/ott
+[branch "plcphotos"]
+	remote = origin
+	merge = refs/heads/plcphotos
+[branch "postcards"]
+	remote = origin
+	merge = refs/heads/postcards
+[branch "priestlake"]
+	remote = origin
+	merge = refs/heads/priestlake
+[branch "raney"]
+	remote = origin
+	merge = refs/heads/raney
+[branch "riegger"]
+	remote = origin
+	merge = refs/heads/riegger
+[branch "sbw"]
+	remote = origin
+	merge = refs/heads/sbw
+[branch "search-index"]
+	remote = origin
+	merge = refs/heads/search-index
+[branch "shattuck"]
+	remote = origin
+	merge = refs/heads/shattuck
+[branch "stockcerts"]
+	remote = origin
+	merge = refs/heads/stockcerts
+[branch "treesgrewtall"]
+	remote = origin
+	merge = refs/heads/treesgrewtall
+[branch "whitepine"]
+	remote = origin
+	merge = refs/heads/whitepine
+[branch "wim"]
+	remote = origin
+	merge = refs/heads/wim
+[branch "hiroshima"]
+	remote = origin
+	merge = refs/heads/hiroshima

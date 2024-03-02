@@ -1,0 +1,34 @@
+0000000000000000000000000000000000000000 dbb762e647007dc5ff544e9d10b5ccb79f27801b aweymo-ui <aweymo.ui@gmail.com> 1703790598 -0800	clone: from https://github.com/uidaholib/base-digital-collections-template.git
+dbb762e647007dc5ff544e9d10b5ccb79f27801b 9fac091d69eeec66e84f0fd696741093430499ae aweymo-ui <aweymo.ui@gmail.com> 1703790614 -0800	checkout: moving from main to barstock
+9fac091d69eeec66e84f0fd696741093430499ae d1d715ff2e70509be23b29e9ff3eff27fc34efc6 aweymo-ui <aweymo.ui@gmail.com> 1703791360 -0800	commit: remove n.d. from csv
+d1d715ff2e70509be23b29e9ff3eff27fc34efc6 64da6cf051de9297ff77de0779358aa86c620f83 aweymo-ui <aweymo.ui@gmail.com> 1703805609 -0800	checkout: moving from barstock to expforest
+64da6cf051de9297ff77de0779358aa86c620f83 175f98f4685f6f7195acea0042a9f901d24da986 aweymo-ui <aweymo.ui@gmail.com> 1703876055 -0800	checkout: moving from expforest to sanborn
+175f98f4685f6f7195acea0042a9f901d24da986 15e90be845ad9f8fe39ae7301afb981f42cd8dbd aweymo-ui <aweymo.ui@gmail.com> 1703895289 -0800	checkout: moving from sanborn to 1918flu
+15e90be845ad9f8fe39ae7301afb981f42cd8dbd a99cfd7c93d7fa5bafec5c8e4dddf917952b1f42 aweymo-ui <aweymo.ui@gmail.com> 1704756635 -0800	checkout: moving from 1918flu to main
+a99cfd7c93d7fa5bafec5c8e4dddf917952b1f42 275fe02df081c52adaad3cb4016b874014c43078 aweymo-ui <aweymo.ui@gmail.com> 1707761965 -0800	checkout: moving from main to kooskia
+275fe02df081c52adaad3cb4016b874014c43078 a99cfd7c93d7fa5bafec5c8e4dddf917952b1f42 aweymo-ui <aweymo.ui@gmail.com> 1707762045 -0800	checkout: moving from kooskia to latahsites
+a99cfd7c93d7fa5bafec5c8e4dddf917952b1f42 a99cfd7c93d7fa5bafec5c8e4dddf917952b1f42 aweymo-ui <aweymo.ui@gmail.com> 1707762156 -0800	checkout: moving from latahsites to latahsites
+a99cfd7c93d7fa5bafec5c8e4dddf917952b1f42 f437124feb2a8354a9950d7138c0089be0bf26a0 aweymo-ui <aweymo.ui@gmail.com> 1707762338 -0800	checkout: moving from latahsites to laughlin
+f437124feb2a8354a9950d7138c0089be0bf26a0 e9272651f5293be8dce4126a8005ef073b1ab9aa aweymo-ui <aweymo.ui@gmail.com> 1707762399 -0800	checkout: moving from laughlin to lcheritage
+e9272651f5293be8dce4126a8005ef073b1ab9aa c9c8d87e5dd7079a9562087a81d01da60e36a3e3 aweymo-ui <aweymo.ui@gmail.com> 1707762681 -0800	commit: corrupt character audit
+c9c8d87e5dd7079a9562087a81d01da60e36a3e3 07fd13710491d73ea0941528cf257e88a8ec3452 aweymo-ui <aweymo.ui@gmail.com> 1707762980 -0800	checkout: moving from lcheritage to lchsphotos
+07fd13710491d73ea0941528cf257e88a8ec3452 a99cfd7c93d7fa5bafec5c8e4dddf917952b1f42 aweymo-ui <aweymo.ui@gmail.com> 1707763030 -0800	checkout: moving from lchsphotos to main
+a99cfd7c93d7fa5bafec5c8e4dddf917952b1f42 c31112ae2a576f33eb9581d02ff9dcc31afe6403 aweymo-ui <aweymo.ui@gmail.com> 1707763046 -0800	checkout: moving from main to marsh
+c31112ae2a576f33eb9581d02ff9dcc31afe6403 f41120d5732f2675237468fc636d737a1cc752c2 aweymo-ui <aweymo.ui@gmail.com> 1707763085 -0800	checkout: moving from marsh to ott
+f41120d5732f2675237468fc636d737a1cc752c2 440f09ab4cb04970e4f2624701a9612509a1472d aweymo-ui <aweymo.ui@gmail.com> 1707763218 -0800	commit: corrupt character audit
+440f09ab4cb04970e4f2624701a9612509a1472d 6cfc74471467e4a375dee52dcc3fb9b911c52beb aweymo-ui <aweymo.ui@gmail.com> 1707763510 -0800	checkout: moving from ott to plcphotos
+6cfc74471467e4a375dee52dcc3fb9b911c52beb 03f925bff8aa77d34cff68475a5fc42af15ec87a aweymo-ui <aweymo.ui@gmail.com> 1707763581 -0800	checkout: moving from plcphotos to postcards
+03f925bff8aa77d34cff68475a5fc42af15ec87a 91810de8c157e94319137b5967f005de4678abd0 aweymo-ui <aweymo.ui@gmail.com> 1707763759 -0800	commit: corrupt character audit
+91810de8c157e94319137b5967f005de4678abd0 f827ce48645c2c25461b8502ca8cf78f72b4d888 aweymo-ui <aweymo.ui@gmail.com> 1707763913 -0800	checkout: moving from postcards to priestlake
+f827ce48645c2c25461b8502ca8cf78f72b4d888 ca400707ec670300ec4f672db3feee6467349a4b aweymo-ui <aweymo.ui@gmail.com> 1707763948 -0800	checkout: moving from priestlake to raney
+ca400707ec670300ec4f672db3feee6467349a4b 2ebb71b93285d80feda0e152324f15211ba78ddb aweymo-ui <aweymo.ui@gmail.com> 1707763978 -0800	checkout: moving from raney to riegger
+2ebb71b93285d80feda0e152324f15211ba78ddb 86c0485ef2014eae810a10862fc0a105331b316f aweymo-ui <aweymo.ui@gmail.com> 1707764003 -0800	checkout: moving from riegger to sbw
+86c0485ef2014eae810a10862fc0a105331b316f d33b84e90a41c698825457b78e0c651174219c77 aweymo-ui <aweymo.ui@gmail.com> 1707764026 -0800	checkout: moving from sbw to search-index
+d33b84e90a41c698825457b78e0c651174219c77 5a5c6547b45d75afc9224aab7427c84124a0d7db aweymo-ui <aweymo.ui@gmail.com> 1707764047 -0800	checkout: moving from search-index to shattuck
+5a5c6547b45d75afc9224aab7427c84124a0d7db 916c032b6d48455189f237aee2edb060f3a4fb5e aweymo-ui <aweymo.ui@gmail.com> 1707764065 -0800	checkout: moving from shattuck to stockcerts
+916c032b6d48455189f237aee2edb060f3a4fb5e 33e70aa54736b8f8556e120034fa7e161b6961d2 aweymo-ui <aweymo.ui@gmail.com> 1707764091 -0800	checkout: moving from stockcerts to treesgrewtall
+33e70aa54736b8f8556e120034fa7e161b6961d2 eae894b453edffdc213be8a744a5776dea939cdf aweymo-ui <aweymo.ui@gmail.com> 1707764110 -0800	checkout: moving from treesgrewtall to whitepine
+eae894b453edffdc213be8a744a5776dea939cdf d74a4f1dbe3a5d9cb484a7917c943a9f3abc4fb9 aweymo-ui <aweymo.ui@gmail.com> 1707764128 -0800	checkout: moving from whitepine to wim
+d74a4f1dbe3a5d9cb484a7917c943a9f3abc4fb9 429c3e5ebed5a76e28d7954a2006aa3eacaf12bb aweymo-ui <aweymo.ui@gmail.com> 1709074618 -0800	checkout: moving from wim to hiroshima
+429c3e5ebed5a76e28d7954a2006aa3eacaf12bb eae894b453edffdc213be8a744a5776dea939cdf aweymo-ui <aweymo.ui@gmail.com> 1709335027 -0800	checkout: moving from hiroshima to whitepine
+eae894b453edffdc213be8a744a5776dea939cdf 0674933f4e594aa43cbbf2742423277b31e89850 aweymo-ui <aweymo.ui@gmail.com> 1709340390 -0800	checkout: moving from whitepine to main
