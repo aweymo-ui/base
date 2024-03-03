@@ -1,9 +1,9 @@
 #SITE CONFIGURATION
 
-title: Andrew Stiefel
-description: Composer
-repository: "andrewstiefel/music-portfolio"
-baseurl: 
+title: Andrew Weymouth
+description: Digital Initiatives Librarian, Writer
+repository: "aweymo/base"
+baseurl: base
 url: "http://andrewstiefel.com"
 
 google_tag_manager: GTM-P7PZFVP
