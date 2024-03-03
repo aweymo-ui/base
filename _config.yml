@@ -2,37 +2,38 @@
 
 title: Andrew Weymouth
 description: Digital Initiatives Librarian, Writer
-repository: "aweymo/base"
-baseurl: base
-url: "http://andrewstiefel.com"
+repository: 
+baseurl: 
+url: "http://aweymo.githib.io/base"
 
-google_tag_manager: GTM-P7PZFVP
+google_tag_manager: 
 
 # SEO PLUGIN
 
 social:
-  name: Andrew Stiefel
+  name: Andrew Weymouth
   links:
-    - https://www.facebook.com/andrewstiefel
-    - https://twitter.com/andrewstiefel
-    - https://www.instagram.com/andrewstiefel
-    - https://www.youtube.com/user/andrewstiefel
-    - https://www.linkedin.com/in/andrewstiefel
-    - https://github.com/andrewstiefel
+    - https://www.instagram.com/andrewrweymouth/
+    - https://vimeo.com/andrewrainsweymouth
+    - https://www.linkedin.com/in/andrew-weymouth/
+    - https://github.com/aweymo
+    - https://letterboxd.com/aweymo/
     
 #THEME SETTINGS
 
 navigation: # Navigation links
-  - {name: 'Music', link: '/music'}
-  - {name: 'Recordings', link: '/recordings'}
+  - {name: 'Exhibits', link: '/exhibits'}
+  - {name: 'Publications', link: '/publications'}
+  - {name: 'Workshops and Presentations', link: '/workshops'}
+  - {name: 'Press', link: '/press'}
   - {name: 'Contact', link: '/contact'}
   
-email: andrew@andrewstiefel.com
-twitter_username: andrewstiefel
-github_username: andrewstiefel
-instagram_username: andrewstiefel
-facebook_username: andrewstiefel
-linkedin_username: andrewstiefel
+email: andrewrainsweymouth@gmail.com
+github_username: aweymo
+instagram_username: andrewrweymouth
+linkedin_username: andrew-weymouth
+letterboxd_username: aweymo
+vimeo_username: andrewrainsweymouth
 
 #BUILD SETTINGS
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 headline: About
-description: Andrew Stiefel is a composer, performer, and writer whose work explores the intersections between written and recorded sound.
-summary: Andrew Stiefel is a composer living in Seattle, Washington. His music explores the intersections between written and recorded sound.
+description: Andrew Weymouth is a Digital Initiatives Librarian at the University of Idaho and writer with a background in archiving and design.
+summary: Andrew Weymouth is a Digital Initiatives Librarian at the University of Idaho and writer with a background in archiving and design.
 featured-img: andrew-stiefel-viola.jpg
 permalink: /
 ---
